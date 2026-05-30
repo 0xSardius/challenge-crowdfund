@@ -19,7 +19,7 @@ contract CrowdFund {
 
     FundingRecipient public fundingRecipient;
     bool public openToWithdraw;
-    uint256 public deadline = block.timestamp + 30 seconds;
+    uint256 public deadline = block.timestamp + 1 days;
     uint256 public constant threshold = 1 ether;
 
     mapping(address => uint256) public balances;
