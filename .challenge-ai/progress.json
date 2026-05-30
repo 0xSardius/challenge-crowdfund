@@ -2,7 +2,7 @@
   "challenge": "crowdfunding",
   "startedAt": "2026-05-26",
   "lastUpdated": "2026-05-30",
-  "currentCheckpoint": "receive-function",
+  "currentCheckpoint": null,
   "checkpoints": [
     {
       "id": "contributing",
@@ -29,7 +29,8 @@
       "id": "receive-function",
       "title": "Receive Function / UX",
       "type": "code-writing",
-      "status": "in_progress"
+      "status": "completed",
+      "method": "coded"
     }
   ]
 }
