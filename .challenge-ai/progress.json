@@ -1,0 +1,35 @@
+{
+  "challenge": "crowdfunding",
+  "startedAt": "2026-05-26",
+  "lastUpdated": "2026-05-30",
+  "currentCheckpoint": "receive-function",
+  "checkpoints": [
+    {
+      "id": "contributing",
+      "title": "Contributing",
+      "type": "code-writing",
+      "status": "completed",
+      "method": "coded"
+    },
+    {
+      "id": "withdrawing",
+      "title": "Withdrawing Funds",
+      "type": "code-writing",
+      "status": "completed",
+      "method": "coded"
+    },
+    {
+      "id": "state-machine",
+      "title": "State Machine / Timing",
+      "type": "code-writing",
+      "status": "completed",
+      "method": "coded"
+    },
+    {
+      "id": "receive-function",
+      "title": "Receive Function / UX",
+      "type": "code-writing",
+      "status": "in_progress"
+    }
+  ]
+}
